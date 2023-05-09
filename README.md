@@ -5,7 +5,7 @@
 
 This repository can be added as an **extension** in MakeCode.
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* open [Solar Array Tutorial CAK V2.01](https://makecode.microbit.org/#tutorial:github:mbakhtar/solar-array-cak-201/solararr-cak-v2)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/mbakhtar/solar-array-cak-201** and import
